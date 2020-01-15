@@ -1,4 +1,4 @@
-# edX-C_Programming-Getting-Started
+# edX- C Programming: Getting Started
 course
 
 Visão geral do curso
